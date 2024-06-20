@@ -6,3 +6,4 @@
 - e no momento faço exatas
 - e estudando alura
 - moro com meus pais
+
